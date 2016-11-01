@@ -10,3 +10,6 @@ Upon ending the game, a message prompts you to input your name, if you want.
 
 * words.txt must be in C:/ folder or it gets an error
 * players.txt must be in C:/ folder or it gets an error
+
+
+* Originally made in 2011 for educational purposes
