@@ -1,0 +1,10 @@
+c:\users\daino\documents\visual studio 2015\Projects\Kremala\Kremala\bin\Debug\Kremala.exe.config
+c:\users\daino\documents\visual studio 2015\Projects\Kremala\Kremala\bin\Debug\Kremala.exe
+c:\users\daino\documents\visual studio 2015\Projects\Kremala\Kremala\bin\Debug\Kremala.pdb
+c:\users\daino\documents\visual studio 2015\Projects\Kremala\Kremala\bin\Debug\Kremala.xml
+c:\users\daino\documents\visual studio 2015\Projects\Kremala\Kremala\obj\Debug\Kremala.vbprojResolveAssemblyReference.cache
+c:\users\daino\documents\visual studio 2015\Projects\Kremala\Kremala\obj\Debug\Kremala.Resources.resources
+c:\users\daino\documents\visual studio 2015\Projects\Kremala\Kremala\obj\Debug\Kremala.vbproj.GenerateResource.Cache
+c:\users\daino\documents\visual studio 2015\Projects\Kremala\Kremala\obj\Debug\Kremala.exe
+c:\users\daino\documents\visual studio 2015\Projects\Kremala\Kremala\obj\Debug\Kremala.xml
+c:\users\daino\documents\visual studio 2015\Projects\Kremala\Kremala\obj\Debug\Kremala.pdb
